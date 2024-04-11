@@ -89,26 +89,3 @@ a, button, input, select {
 	margin-top: 20px;
 	padding: 10px;
 }
-
-.button {
-	border: none;
-	color: white;
-	padding: 16px 32px;
-	text-align: center;
-	text-decoration: none;
-	display: inline-block;
-	font-size: 22px;
-	font-family: Monospace;
-	margin: 4px 2px;
-	transition-duration: 0.4s;
-	cursor: pointer;
-	background-color: #72645b; 
-	border: 2px solid #ff0;
-	border-radius: 25px;
-	text-transform: none !important;
-}
-  
-.button:hover {
-	color: #72654b;
-	background-color: #ff0;
-}
